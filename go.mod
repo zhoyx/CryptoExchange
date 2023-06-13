@@ -1,4 +1,4 @@
-module github.com/zhoyx/crypto-exchange
+module github.com/zhoyx/CryptoExchange
 
 go 1.20
 
